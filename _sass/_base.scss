@@ -177,15 +177,6 @@ p {
     margin-top: 0;
     margin-bottom: 20px;
   }
-  .section-title::after {
-    content: '';
-    display: block;
-    width: 40px;
-    height: 4px;
-    margin-top: 6px;
-    background: linear-gradient(90deg, #00c6ff, #0072ff);
-    border-radius: 2px;
-  }
   .section {
     margin-bottom: 60px;
   }
