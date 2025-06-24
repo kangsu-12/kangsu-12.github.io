@@ -70,6 +70,28 @@ experiences:
       - Worked and edited multiple MATLAB scripts to pull data easily
       - Used MS for data collection and presentation
 
+courseworks:
+  title: Relevant Coursework
+  intro:
+  assignments:
+  - title: Thermodynamics  
+    tagline:
+
+  - title: Discrete Math
+    tagline:
+
+  - title: Data Structures and Algorithms
+    tagline:
+
+  - title: Introduction to Python
+    tagline:
+
+  - title: Statics
+    tagline:
+  
+  - title: Graphic Communications
+    tagline:
+
 skills:
   title: Skills &amp; Proficiency
 
