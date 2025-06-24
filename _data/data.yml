@@ -92,6 +92,18 @@ courseworks:
   - title: Graphic Communications
     tagline:
 
+extracurriculars:
+  title: Extracurriculars Activities
+  info:
+  - role: President
+    time: Apr 2024 - Dec 2024
+    activity: Lambda Phi Epsilon
+    details: |
+      Developed a financial plan for the school year which lead funds increasing by 500%.
+      Engaged with members to ensure all roles were functioning efficiently.
+      Had multiple alumni events to keep relationships ongoing
+      Increased relations with other Multicultural Greek organizations and Multicultural clubs
+
 skills:
   title: Skills &amp; Proficiency
 
